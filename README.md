@@ -1,80 +1,71 @@
 <p align="center">
-  <img src="images/banner-github.png" alt="Banner" />
+  <img src="images/banner-github.png" alt="Banner do GitHub" width="100%">
 </p>
 
 
 
 
-# Olá! 👋 Eu sou Josué Honório
+<h1 align="center">Olá! 👋 Eu sou Josué Honório</h1>
 
-## Business Intelligence Analyst
+<h3 align="center">
+Business Intelligence Analyst
+</h3>
 
-Graduado em Ciências Contábeis e graduando em Ciência de Dados.
+<p align="center">
+Graduado em Ciências Contábeis • Graduando em Ciência de Dados
+</p>
 
-Desenvolvo soluções de Business Intelligence utilizando SQL, Python, Excel e Power BI para transformar dados em informações estratégicas, automatizar processos e apoiar a tomada de decisão baseada em dados.
 
----
+<p align="center">
+
+Desenvolvo soluções de Business Intelligence utilizando SQL, Python, Excel e Power BI para transformar dados em informações estratégicas, automatizar processos e apoiar decisões baseadas em dados.
+
+</p>
 
 ## 🚀 Tecnologias
 
-### 📊 Business Intelligence
-- Power BI
-- Excel
-- Power Query
-- DAX
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🗄️ Banco de Dados
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🐍 Linguagens
-- Python
-- VBA
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Automação
-- Power Automate
-- Power Apps
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🌐 Colaboração
-- SharePoint
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
-### 🔧 Versionamento
-- Git
-- GitHub
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
 
----
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
+
+![VBA](https://img.shields.io/badge/VBA-008000?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+## 📊 Estatísticas
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josue20000904&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue20000904&layout=compact&theme=github_dark"/>
+
+</p>
+
 
 ## 📂 Projetos
 
-### 🛒 Olist Business Intelligence *(Em desenvolvimento)*
+| Projeto | Status |
+|----------|--------|
+| 🛒 Olist Business Intelligence | 🚧 Em desenvolvimento |
 
-Projeto completo de Business Intelligence baseado na base pública da Olist, contemplando todas as etapas do processo analítico:
 
-- Compreensão do problema de negócio
-- Extração e exploração dos dados
-- Limpeza e transformação (Python e Excel)
-- Modelagem de dados
-- Consultas SQL
-- Desenvolvimento de dashboards no Power BI
-- Definição e análise de KPIs
-- Geração de insights e recomendações estratégicas
 
----
-
-## 🎯 Objetivo
-
-Construir um portfólio de projetos de Business Intelligence que demonstre competências em análise de dados, modelagem, automação, visualização e geração de insights para apoiar decisões estratégicas em diferentes áreas de negócio.
-
----
-
-## 📚 Áreas de estudo
-
-- Business Intelligence
-- Engenharia de Dados
-- Data Analytics
-- Data Storytelling
-- Inteligência Artificial aplicada à Análise de Dados
-
----
 
 ## 📫 Contato
 
