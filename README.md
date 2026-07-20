@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/banner-github.png" alt="Banner" />
+</p>
+
+
+
+
 # Olá! 👋 Eu sou Josué Honório
 
 ## Business Intelligence Analyst
