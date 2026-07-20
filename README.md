@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Josué Honório
 
-<!--
-**Josue20000904/Josue20000904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Intelligence Analyst
 
-Here are some ideas to get you started:
+Sou apaixonado por transformar dados em informações estratégicas para apoiar a tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+- 📊 Power BI
+- 🐍 Python
+- 🗄 SQL
+- 📈 Excel
+- 🔄 Power Query
+- 📑 DAX
+
+---
+
+## 📂 Projetos
+
+🔹 Olist Business Intelligence *(Em desenvolvimento)*
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver projetos completos de Business Intelligence utilizando dados reais, desde a coleta e tratamento até dashboards e insights estratégicos.
+
+---
+
+## 📫 Contato
+
+LinkedIn *(em breve)*
+
+Email *(opcional)*
